@@ -1,4 +1,4 @@
-# Customer-ChurnArtificial Intelligence Certification Course
+# Customer-ChurnArtificial Intelligence project with customer churn dataset.csv
 Tasks to be done:
 A) Data Manipulation:
 
